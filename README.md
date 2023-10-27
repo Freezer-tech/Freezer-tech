@@ -1,5 +1,3 @@
-[![Image of https://github.com/Freezer-tech/my-views-counter](https://github.com/Freezer-tech/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Freezer-tech/my-views-counter)
-
 <h1 align="center">Hi 👋, I'm Roberto</h1>
 <h3 align="center">A passionate developer from Italy</h3><br>
 
